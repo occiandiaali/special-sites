@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SpecialSites</string>
+    <string name="siteurl">Site URI</string>
+    <string name="sitesecret">Password</string>
+    <string name="sitedesc">Description</string>
+    <string name="created">Created on...</string>
+    <string name="action_delete">Delete all</string>
+    <string name="confirm_sure">Are you sure you want to delete?</string>
+</resources>
